@@ -38,6 +38,7 @@ https://docs.google.com/spreadsheets/d/1Jsfh1pWnA2__AzFGeMugCsTDHOosPi0p/edit?us
 
 
 # Video of the Automation Process:
+https://github.com/user-attachments/assets/da002273-6023-4cca-92f4-2485d0ac6993
 
 
 
