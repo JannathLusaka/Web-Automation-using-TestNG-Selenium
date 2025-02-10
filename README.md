@@ -1,5 +1,5 @@
 # About Web Automation using TestNG Selenium project:
-In this project I have automated the website:  https://dailyfinance.roadtocareer.net
+In this project I have automated the website:  https://dailyfinance.roadtocareer.net.
 I have automated the following steps using TestNG,RestAssured,Selenium 
 
 {1. Register a new user (e.g. yourvalidgmailuser+1@gmail.com). Assert the congratulations email is received.
