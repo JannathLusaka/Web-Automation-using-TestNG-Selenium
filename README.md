@@ -1,6 +1,7 @@
 # About Web Automation using TestNG Selenium project:
 In this project I have automated the website:  https://dailyfinance.roadtocareer.net
-I have automated the following steps using TestNG,RestAssured,Selenium,
+I have automated the following steps using TestNG,RestAssured,Selenium 
+
 {1. Register a new user (e.g. yourvalidgmailuser+1@gmail.com). Assert the congratulations email is received.
 2. Now click on the reset password link. Write 2 negative test case and assert. 
 3. Now Input valid gmail account you have registered and click on send reset link button
